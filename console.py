@@ -207,22 +207,4 @@ class HBNBCommand(cmd.Cmd):
 
 
 if __name__ == "__main__":
-    HBNBCommand().cmdloop(l style ===
-             */
-
-             /* Global style */
-             body{
-                     color: #484848;
-                         margin: 0;
-                             padding: 0;
-                                 font: 14px Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-                                  }
-              .container{
-                      margin: 30px auto;
-                          max-width: 1000px;
-                           }
-
-               /*strong*/
-                strong {
-                       font-weight: bold;
-                        })
+    HBNBCommand().cmdloop()
